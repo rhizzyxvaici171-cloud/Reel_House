@@ -28,7 +28,7 @@ Explore Reel House here:
 
 # 📌 Project Status
 
-REELHOUSE is an independent project developed as part of an ongoing journey in web development and software engineering.
+Reel House is an independent project developed as part of an ongoing journey in web development and software engineering.
 
 Features and functionality may evolve as development continues.
 
