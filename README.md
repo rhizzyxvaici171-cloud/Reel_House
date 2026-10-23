@@ -3,13 +3,13 @@
 
 Discover Movies. Explore Stories.
 
-REELHOUSE is a movie discovery website designed to help people explore movies and discover trailers through YouTube.
+Reel House is a movie discovery website designed to help people explore movies and discover trailers through YouTube.
 
 Rather than operating as a traditional movie-streaming service, REELHOUSE focuses on helping users discover movies, explore available information, and preview films through linked trailers.
 
 # 🎥 About the Project
 
-REELHOUSE is an independent web development project built around the movie discovery experience. It provides a dedicated platform for exploring movies and finding trailers without directly hosting the video content.
+Reel House is an independent web development project built around the movie discovery experience. It provides a dedicated platform for exploring movies and finding trailers without directly hosting the video content.
 
 The goal is simple: make discovering your next movie an engaging experience.
 
@@ -22,9 +22,9 @@ The goal is simple: make discovering your next movie an engaging experience.
 
 # 🌐 Live Website
 
-Explore REELHOUSE here:
+Explore Reel House here:
 
-**[Visit REELHOUSE] (https://reel-house-beige.vercel.app/)**
+**[Visit Reel House](https://reel-house-beige.vercel.app/)**
 
 # 📌 Project Status
 
